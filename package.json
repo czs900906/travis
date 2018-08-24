@@ -15,5 +15,8 @@
     "chai": "^4.1.2",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4"
   }
 }
